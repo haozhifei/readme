@@ -1,3 +1,2 @@
-Git is a new version control system
+Git is a new distribute version control system
 Git is a free soft
-
